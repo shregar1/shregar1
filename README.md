@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shreyansh
+- 👋 Hi, I’m Shiv
 - 👀 I’m interested in DeepLearning, Computer Vision, NLP, and Web-Development.
 - 🌱 I’m currently learning Full-Stack Development.
 - 💞️ I’m looking to collaborate on CV and web-dev projects.
